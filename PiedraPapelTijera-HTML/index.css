@@ -1,0 +1,33 @@
+body{
+    background-color: #c8f5f4;
+
+}
+
+/*Titulos*/
+h1, a, h3{
+    color: #ffffff;
+}
+
+/*elementos del navbar*/
+.navbar-brand, .navbar-toggler, .nav-link{
+    color: #ffffff;
+}
+
+/*letra del dropdown*/
+.dropdown-item{
+    color: #2d122c;
+}
+
+/*fondo del dropdown*/
+.dropdown-menu{
+    background-color: #B9FAF8;
+}
+
+/*Paneles de jugador*/
+#panelJugadores, #panelJ1, #panelJ2{
+    background-color: #fea85d;
+}
+
+#panelJugadores {
+    box-shadow: 10px 10px 15px lightblue;
+}

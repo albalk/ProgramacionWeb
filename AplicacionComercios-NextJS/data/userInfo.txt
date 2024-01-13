@@ -1,0 +1,1 @@
+[{"name":"Alba","email":"alba@usuario","edad":"20","city":"Madrid","intereses":"ocio","offer":"on"},{"name":"prueba","email":"prueba@usuario","edad":"20","city":"barcelona","intereses":"nada","offer":"on"},{"name":"Examen","email":"examen@usuario","edad":"23","city":"madrid","intereses":"algo","offer":"on"}]
